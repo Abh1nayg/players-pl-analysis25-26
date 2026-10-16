@@ -93,7 +93,7 @@ The cluster names are my interpretation of the feature means, not something the 
 
 ```bash
 git clone <this-repo>
-cd unstructured
+cd players-pl-analysis25-26
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
