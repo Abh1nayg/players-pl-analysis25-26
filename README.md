@@ -2,7 +2,7 @@
 
 Unsupervised K-Means clustering of Premier League outfield players from FBref season stats, built to compare how **feature scaling** changes the clusters you get.
 
-## Key findings
+## Key Findings
 
 **1. Z-score and MinMax scaling give very different clusterings.**
 Same data, same features, same algorithm. Only the scaler changed.
